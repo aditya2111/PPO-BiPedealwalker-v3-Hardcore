@@ -177,5 +177,3 @@ plt.show()
 * Support for multi-environment training (e.g. `gym.vector`)
 
 ---
-
-Let me know if you'd like this formatted as a downloadable `README.md` file or want badges/GIFs/logos for visual polish.
