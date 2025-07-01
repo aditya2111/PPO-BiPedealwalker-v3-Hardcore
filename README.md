@@ -1,6 +1,3 @@
-Here is a clean and comprehensive `README.md` / project description file for your **Proximal Policy Optimization (PPO) implementation on BipedalWalker-v3 (hardcore)** using PyTorch and Gymnasium:
-
----
 
 # 🦿 PPO-BipedalWalker-v3 (Hardcore) — PyTorch Implementation
 
